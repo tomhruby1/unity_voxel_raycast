@@ -22,7 +22,7 @@ public class RaycastDemonstrator : MonoBehaviour
 
     //parameters
     private int3 mapSize = new int3(100, 100, 100);
-    private float voxelSize = 1f;
+    private float voxelSize = 0.2f;
 
     private float3 boundStart;
 
